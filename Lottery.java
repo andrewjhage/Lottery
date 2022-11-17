@@ -1,10 +1,3 @@
-/*Andrew Hage
- * 10/25/2022
- * Module 1
- * Exercise 3.15 Lottery Roll
- */
-
-
     import java.util.Scanner;
     public class Lottery {
     public static void main(String[] args) {
